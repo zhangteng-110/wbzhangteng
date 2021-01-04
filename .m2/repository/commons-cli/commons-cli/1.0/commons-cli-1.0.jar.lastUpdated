@@ -1,0 +1,8 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri Aug 21 13:29:03 CST 2020
+https\://repo.spring.io/libs-snapshot-local/.error=Could not transfer artifact commons-cli\:commons-cli\:jar\:1.0 from/to spring-snapshots (https\://repo.spring.io/libs-snapshot-local)\: Failed to transfer file\: https\://repo.spring.io/libs-snapshot-local/commons-cli/commons-cli/1.0/commons-cli-1.0.jar. Return code is\: 409, ReasonPhrase\: Conflict.
+https\://repo.spring.io/libs-milestone-local/.lastUpdated=1597987741026
+https\://repo.maven.apache.org/maven2/.lastUpdated=1597912599909
+https\://repo.spring.io/libs-milestone-local/.error=
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1597987743588
+@default-spring-snapshots-https\://repo.spring.io/libs-snapshot-local/.lastUpdated=1597987738917

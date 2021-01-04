@@ -1,0 +1,7 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri Aug 21 13:31:50 CST 2020
+jackson-databind-2.6.6-sources.jar>central=
+jackson-databind-2.6.6.jar>central=
+jackson-databind-2.6.6.pom>nexus-aliyun=
+jackson-databind-2.6.6.jar>nexus-aliyun=
+jackson-databind-2.6.6.pom>central=

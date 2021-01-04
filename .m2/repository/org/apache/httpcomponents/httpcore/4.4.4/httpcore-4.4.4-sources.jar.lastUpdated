@@ -1,0 +1,9 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri Aug 21 09:43:11 CST 2020
+https\://repo.spring.io/libs-release-local/.error=
+https\://repo.spring.io/libs-snapshot-local/.error=Could not transfer artifact org.apache.httpcomponents\:httpcore\:jar\:sources\:4.4.4 from/to spring-snapshots (https\://repo.spring.io/libs-snapshot-local)\: Failed to transfer file\: https\://repo.spring.io/libs-snapshot-local/org/apache/httpcomponents/httpcore/4.4.4/httpcore-4.4.4-sources.jar. Return code is\: 409 , ReasonPhrase\:Conflict.
+https\://repo.spring.io/libs-release-local/.lastUpdated=1597974189250
+https\://repo.maven.apache.org/maven2/.lastUpdated=1597974191125
+https\://repo.spring.io/libs-milestone-local/.lastUpdated=1597974188875
+https\://repo.spring.io/libs-milestone-local/.error=
+@default-spring-snapshots-https\://repo.spring.io/libs-snapshot-local/.lastUpdated=1597974188547

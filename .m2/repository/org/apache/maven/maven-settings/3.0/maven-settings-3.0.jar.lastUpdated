@@ -1,0 +1,8 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Nov 09 14:31:28 CST 2020
+https\://repo.spring.io/libs-snapshot-local/.error=Could not transfer artifact org.apache.maven\:maven-settings\:jar\:3.0 from/to spring-snapshots (https\://repo.spring.io/libs-snapshot-local)\: Failed to transfer file\: https\://repo.spring.io/libs-snapshot-local/org/apache/maven/maven-settings/3.0/maven-settings-3.0.jar. Return code is\: 409 , ReasonPhrase\:Conflict.
+https\://repo.maven.apache.org/maven2/.lastUpdated=1604903488235
+https\://repo.spring.io/libs-milestone-local/.lastUpdated=1597990164596
+https\://repo.spring.io/libs-milestone-local/.error=
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1597990173799
+@default-spring-snapshots-https\://repo.spring.io/libs-snapshot-local/.lastUpdated=1597990145705

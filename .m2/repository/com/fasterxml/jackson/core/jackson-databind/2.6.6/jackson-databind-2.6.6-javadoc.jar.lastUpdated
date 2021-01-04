@@ -1,0 +1,10 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri Aug 21 10:49:11 CST 2020
+https\://repo.spring.io/libs-release-local/.error=
+https\://repo.spring.io/libs-snapshot-local/.error=Could not transfer artifact com.fasterxml.jackson.core\:jackson-databind\:jar\:javadoc\:2.6.6 from/to spring-snapshots (https\://repo.spring.io/libs-snapshot-local)\: Failed to transfer file\: https\://repo.spring.io/libs-snapshot-local/com/fasterxml/jackson/core/jackson-databind/2.6.6/jackson-databind-2.6.6-javadoc.jar. Return code is\: 409 , ReasonPhrase\:Conflict.
+https\://repo.spring.io/libs-release-local/.lastUpdated=1597975621077
+https\://repo.spring.io/libs-milestone-local/.lastUpdated=1597975614922
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1597978151493
+https\://repo.spring.io/libs-milestone-local/.error=
+@default-spring-snapshots-https\://repo.spring.io/libs-snapshot-local/.lastUpdated=1597975614590
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact com.fasterxml.jackson.core\:jackson-databind\:jar\:javadoc\:2.6.6 from/to central (https\://repo.maven.apache.org/maven2)\: GET request of\: com/fasterxml/jackson/core/jackson-databind/2.6.6/jackson-databind-2.6.6-javadoc.jar from central failed

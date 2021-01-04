@@ -1,0 +1,9 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri Aug 21 13:33:40 CST 2020
+https\://repo.spring.io/libs-snapshot-local/.error=Could not transfer artifact com.github.jnr\:jffi\:pom\:1.2.21 from/to spring-snapshots (https\://repo.spring.io/libs-snapshot-local)\: Failed to transfer file\: https\://repo.spring.io/libs-snapshot-local/com/github/jnr/jffi/1.2.21/jffi-1.2.21.pom. Return code is\: 409 , ReasonPhrase\:Conflict.
+https\://repo.spring.io/libs-milestone-local/.lastUpdated=1597988020178
+https\://repo.spring.io/libs-milestone-local/.error=
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1597913498937
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1597988020585
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact com.github.jnr\:jffi\:pom\:1.2.21 from/to central (https\://repo.maven.apache.org/maven2)\: Connect to repo.maven.apache.org\:443 [repo.maven.apache.org/151.101.196.215] failed\: Connection timed out\: connect
+@default-spring-snapshots-https\://repo.spring.io/libs-snapshot-local/.lastUpdated=1597988019397

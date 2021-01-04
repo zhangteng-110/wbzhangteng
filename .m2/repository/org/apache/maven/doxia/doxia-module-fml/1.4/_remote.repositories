@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Oct 20 11:41:41 CST 2020
+doxia-module-fml-1.4.jar>nexus-aliyun=
+doxia-module-fml-1.4.pom>central=
+doxia-module-fml-1.4.pom>nexus-aliyun=

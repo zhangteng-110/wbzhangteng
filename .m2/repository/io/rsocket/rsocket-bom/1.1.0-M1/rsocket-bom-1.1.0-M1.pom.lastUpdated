@@ -1,0 +1,10 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri Aug 21 09:37:56 CST 2020
+https\://repo.spring.io/libs-release-local/.error=
+https\://repo.spring.io/libs-snapshot-local/.error=Could not transfer artifact io.rsocket\:rsocket-bom\:pom\:1.1.0-M1 from/to spring-snapshots (https\://repo.spring.io/libs-snapshot-local)\: Failed to transfer file\: https\://repo.spring.io/libs-snapshot-local/io/rsocket/rsocket-bom/1.1.0-M1/rsocket-bom-1.1.0-M1.pom. Return code is\: 409 , ReasonPhrase\:Conflict.
+https\://repo.spring.io/libs-release-local/.lastUpdated=1597973855887
+https\://repo.spring.io/libs-milestone-local/.lastUpdated=1597973855418
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1597973876939
+https\://repo.spring.io/libs-milestone-local/.error=
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact io.rsocket\:rsocket-bom\:pom\:1.1.0-M1 from/to central (https\://repo.maven.apache.org/maven2)\: Connect to repo.maven.apache.org\:443 [repo.maven.apache.org/151.101.196.215] failed\: Connection timed out\: connect
+@default-spring-snapshots-https\://repo.spring.io/libs-snapshot-local/.lastUpdated=1597973855043

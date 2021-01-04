@@ -1,0 +1,9 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Nov 09 10:33:50 CST 2020
+https\://repo.spring.io/libs-milestone-local/.lastUpdated=1597973782713
+@default-spring-snapshots-https\://repo.spring.io/libs-snapshot-local/.lastUpdated=1597973782323
+https\://repo.spring.io/libs-milestone-local/.error=
+https\://repo.spring.io/libs-release-local/.lastUpdated=1597973783104
+https\://repo.spring.io/libs-release-local/.error=
+https\://repo.spring.io/libs-snapshot-local/.error=Could not transfer artifact io.netty\:netty-bom\:pom\:4.1.51.Final from/to spring-snapshots (https\://repo.spring.io/libs-snapshot-local)\: Failed to transfer file\: https\://repo.spring.io/libs-snapshot-local/io/netty/netty-bom/4.1.51.Final/netty-bom-4.1.51.Final.pom. Return code is\: 409 , ReasonPhrase\:Conflict.
+https\://repo.maven.apache.org/maven2/.lastUpdated=1604889230099

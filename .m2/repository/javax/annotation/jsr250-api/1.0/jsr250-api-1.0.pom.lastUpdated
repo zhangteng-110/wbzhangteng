@@ -1,0 +1,8 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Nov 09 15:06:48 CST 2020
+https\://repo.spring.io/libs-snapshot-local/.error=Could not transfer artifact javax.annotation\:jsr250-api\:pom\:1.0 from/to spring-snapshots (https\://repo.spring.io/libs-snapshot-local)\: Failed to transfer file\: https\://repo.spring.io/libs-snapshot-local/javax/annotation/jsr250-api/1.0/jsr250-api-1.0.pom. Return code is\: 409 , ReasonPhrase\:Conflict.
+https\://repo.maven.apache.org/maven2/.lastUpdated=1604905608536
+https\://repo.spring.io/libs-milestone-local/.lastUpdated=1597987833260
+https\://repo.spring.io/libs-milestone-local/.error=
+@default-spring-snapshots-https\://repo.spring.io/libs-snapshot-local/.lastUpdated=1597987827401
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1597987833666

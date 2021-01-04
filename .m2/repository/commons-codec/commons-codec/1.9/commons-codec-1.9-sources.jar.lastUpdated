@@ -1,0 +1,9 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri Aug 21 09:43:23 CST 2020
+https\://repo.spring.io/libs-release-local/.error=
+https\://repo.spring.io/libs-snapshot-local/.error=Could not transfer artifact commons-codec\:commons-codec\:jar\:sources\:1.9 from/to spring-snapshots (https\://repo.spring.io/libs-snapshot-local)\: Failed to transfer file\: https\://repo.spring.io/libs-snapshot-local/commons-codec/commons-codec/1.9/commons-codec-1.9-sources.jar. Return code is\: 409 , ReasonPhrase\:Conflict.
+https\://repo.spring.io/libs-release-local/.lastUpdated=1597974200015
+https\://repo.maven.apache.org/maven2/.lastUpdated=1597974203500
+https\://repo.spring.io/libs-milestone-local/.lastUpdated=1597974199687
+https\://repo.spring.io/libs-milestone-local/.error=
+@default-spring-snapshots-https\://repo.spring.io/libs-snapshot-local/.lastUpdated=1597974199328

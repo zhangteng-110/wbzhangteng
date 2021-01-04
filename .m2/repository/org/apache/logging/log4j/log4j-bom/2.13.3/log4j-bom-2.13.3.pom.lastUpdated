@@ -1,0 +1,9 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Nov 09 10:30:45 CST 2020
+https\://repo.spring.io/libs-milestone-local/.lastUpdated=1597973739477
+@default-spring-snapshots-https\://repo.spring.io/libs-snapshot-local/.lastUpdated=1597973739134
+https\://repo.spring.io/libs-milestone-local/.error=
+https\://repo.spring.io/libs-release-local/.lastUpdated=1597973740087
+https\://repo.spring.io/libs-release-local/.error=
+https\://repo.spring.io/libs-snapshot-local/.error=Could not transfer artifact org.apache.logging.log4j\:log4j-bom\:pom\:2.13.3 from/to spring-snapshots (https\://repo.spring.io/libs-snapshot-local)\: Failed to transfer file\: https\://repo.spring.io/libs-snapshot-local/org/apache/logging/log4j/log4j-bom/2.13.3/log4j-bom-2.13.3.pom. Return code is\: 409 , ReasonPhrase\:Conflict.
+https\://repo.maven.apache.org/maven2/.lastUpdated=1604889045886

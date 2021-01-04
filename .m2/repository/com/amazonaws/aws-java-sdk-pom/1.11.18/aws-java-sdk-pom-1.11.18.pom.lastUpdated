@@ -1,0 +1,10 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri Aug 21 13:23:11 CST 2020
+https\://repo.spring.io/libs-release-local/.error=
+https\://repo.spring.io/libs-snapshot-local/.error=Could not transfer artifact com.amazonaws\:aws-java-sdk-pom\:pom\:1.11.18 from/to spring-snapshots (https\://repo.spring.io/libs-snapshot-local)\: Failed to transfer file\: https\://repo.spring.io/libs-snapshot-local/com/amazonaws/aws-java-sdk-pom/1.11.18/aws-java-sdk-pom-1.11.18.pom. Return code is\: 409, ReasonPhrase\: Conflict.
+https\://repo.spring.io/libs-release-local/.lastUpdated=1597987391140
+https\://repo.maven.apache.org/maven2/.lastUpdated=1597902937407
+https\://repo.spring.io/libs-milestone-local/.lastUpdated=1597987390859
+https\://repo.spring.io/libs-milestone-local/.error=
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1597987391281
+@default-spring-snapshots-https\://repo.spring.io/libs-snapshot-local/.lastUpdated=1597987390593

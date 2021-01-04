@@ -1,0 +1,8 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Dec 07 15:12:45 CST 2020
+https\://repo.spring.io/libs-snapshot-local/.error=Could not transfer artifact commons-pool\:commons-pool\:jar\:1.6 from/to spring-snapshots (https\://repo.spring.io/libs-snapshot-local)\: Failed to transfer file\: https\://repo.spring.io/libs-snapshot-local/commons-pool/commons-pool/1.6/commons-pool-1.6.jar. Return code is\: 409 , ReasonPhrase\:Conflict.
+https\://repo.maven.apache.org/maven2/.lastUpdated=1607325165912
+https\://repo.spring.io/libs-milestone-local/.lastUpdated=1597988254359
+https\://repo.spring.io/libs-milestone-local/.error=
+@default-spring-snapshots-https\://repo.spring.io/libs-snapshot-local/.lastUpdated=1597988201643
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1597988293466

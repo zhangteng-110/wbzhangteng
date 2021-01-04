@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri Aug 21 13:38:14 CST 2020
+ant-1.8.2.pom>central=
+ant-1.8.2.pom>nexus-aliyun=
+ant-1.8.2.jar>nexus-aliyun=

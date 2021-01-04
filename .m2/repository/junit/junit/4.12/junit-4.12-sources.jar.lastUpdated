@@ -1,0 +1,9 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Aug 20 16:37:38 CST 2020
+https\://repo.spring.io/libs-snapshot-local/.error=Could not transfer artifact junit\:junit\:jar\:sources\:4.12 from/to spring-snapshots (https\://repo.spring.io/libs-snapshot-local)\: Failed to transfer file\: https\://repo.spring.io/libs-snapshot-local/junit/junit/4.12/junit-4.12-sources.jar. Return code is\: 409 , ReasonPhrase\:Conflict.
+https\://repo.maven.apache.org/maven2/.lastUpdated=1597912658599
+https\://repo.spring.io/libs-release-local/.lastUpdated=1597912059177
+https\://repo.spring.io/libs-milestone-local/.error=
+https\://repo.spring.io/libs-milestone-local/.lastUpdated=1597912058505
+@default-spring-snapshots-https\://repo.spring.io/libs-snapshot-local/.lastUpdated=1597912058083
+https\://repo.spring.io/libs-release-local/.error=

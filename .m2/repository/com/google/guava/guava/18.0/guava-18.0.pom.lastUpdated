@@ -1,0 +1,10 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Dec 08 15:35:26 CST 2020
+http\://repo.spring.io/ext-release-local/.error=Could not transfer artifact com.google.guava\:guava\:pom\:18.0 from/to spring-ext (http\://repo.spring.io/ext-release-local/)\: Access denied to\: http\://repo.spring.io/ext-release-local/com/google/guava/guava/18.0/guava-18.0.pom , ReasonPhrase\:Forbidden.
+@default-spring-snapshots-https\://repo.spring.io/libs-snapshot-local/.lastUpdated=1597979959452
+https\://repo.spring.io/libs-milestone-local/.error=Could not transfer artifact com.google.guava\:guava\:pom\:18.0 from/to spring-milestones (https\://repo.spring.io/libs-milestone-local)\: Remote host terminated the handshake
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1597987835151
+@default-spring-milestones-https\://repo.spring.io/libs-milestone-local/.lastUpdated=1597979970003
+https\://repo.spring.io/libs-snapshot-local/.error=Could not transfer artifact com.google.guava\:guava\:pom\:18.0 from/to spring-snapshots (https\://repo.spring.io/libs-snapshot-local)\: Failed to transfer file\: https\://repo.spring.io/libs-snapshot-local/com/google/guava/guava/18.0/guava-18.0.pom. Return code is\: 409 , ReasonPhrase\:Conflict.
+https\://repo.maven.apache.org/maven2/.lastUpdated=1607412926906
+@default-spring-ext-http\://repo.spring.io/ext-release-local/.lastUpdated=1597979970291

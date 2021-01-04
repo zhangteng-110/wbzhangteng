@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri Aug 21 09:37:34 CST 2020
+https\://repo.spring.io/libs-snapshot-local/.error=Could not transfer artifact io.projectreactor\:reactor-bom\:pom\:2020.0.0-M2 from/to spring-snapshots (https\://repo.spring.io/libs-snapshot-local)\: Failed to transfer file\: https\://repo.spring.io/libs-snapshot-local/io/projectreactor/reactor-bom/2020.0.0-M2/reactor-bom-2020.0.0-M2.pom. Return code is\: 409 , ReasonPhrase\:Conflict.
+https\://repo.spring.io/libs-milestone-local/.lastUpdated=1597973854762
+@default-spring-snapshots-https\://repo.spring.io/libs-snapshot-local/.lastUpdated=1597973853574

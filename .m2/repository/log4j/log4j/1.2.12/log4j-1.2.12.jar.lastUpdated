@@ -1,0 +1,7 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri Aug 21 14:03:36 CST 2020
+@default-spring-milestones-https\://repo.spring.io/libs-milestone-local/.lastUpdated=1597988013866
+https\://repo.spring.io/libs-snapshot-local/.error=Could not transfer artifact log4j\:log4j\:jar\:1.2.12 from/to spring-snapshots (https\://repo.spring.io/libs-snapshot-local)\: Failed to transfer file\: https\://repo.spring.io/libs-snapshot-local/log4j/log4j/1.2.12/log4j-1.2.12.jar. Return code is\: 409 , ReasonPhrase\:Conflict.
+https\://repo.spring.io/libs-milestone-local/.error=Could not transfer artifact log4j\:log4j\:jar\:1.2.12 from/to spring-milestones (https\://repo.spring.io/libs-milestone-local)\: Remote host terminated the handshake
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1597989816095
+@default-spring-snapshots-https\://repo.spring.io/libs-snapshot-local/.lastUpdated=1597987801166

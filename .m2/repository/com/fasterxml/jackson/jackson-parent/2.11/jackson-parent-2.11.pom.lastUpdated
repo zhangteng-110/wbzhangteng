@@ -1,0 +1,9 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri Aug 21 09:35:11 CST 2020
+https\://repo.spring.io/libs-release-local/.error=
+https\://repo.spring.io/libs-snapshot-local/.error=Could not transfer artifact com.fasterxml.jackson\:jackson-parent\:pom\:2.11 from/to spring-snapshots (https\://repo.spring.io/libs-snapshot-local)\: Failed to transfer file\: https\://repo.spring.io/libs-snapshot-local/com/fasterxml/jackson/jackson-parent/2.11/jackson-parent-2.11.pom. Return code is\: 409 , ReasonPhrase\:Conflict.
+https\://repo.spring.io/libs-release-local/.lastUpdated=1597973709946
+https\://repo.maven.apache.org/maven2/.lastUpdated=1597973711243
+https\://repo.spring.io/libs-milestone-local/.lastUpdated=1597973709555
+https\://repo.spring.io/libs-milestone-local/.error=
+@default-spring-snapshots-https\://repo.spring.io/libs-snapshot-local/.lastUpdated=1597973709165

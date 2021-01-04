@@ -1,0 +1,10 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri Aug 21 13:24:07 CST 2020
+https\://repo.spring.io/libs-release-local/.error=
+https\://repo.spring.io/libs-snapshot-local/.error=Could not transfer artifact org.apache.commons\:commons-parent\:pom\:32 from/to spring-snapshots (https\://repo.spring.io/libs-snapshot-local)\: Failed to transfer file\: https\://repo.spring.io/libs-snapshot-local/org/apache/commons/commons-parent/32/commons-parent-32.pom. Return code is\: 409, ReasonPhrase\: Conflict.
+https\://repo.spring.io/libs-release-local/.lastUpdated=1597987447328
+https\://repo.maven.apache.org/maven2/.lastUpdated=1597901462546
+https\://repo.spring.io/libs-milestone-local/.lastUpdated=1597987447062
+https\://repo.spring.io/libs-milestone-local/.error=
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1597987447484
+@default-spring-snapshots-https\://repo.spring.io/libs-snapshot-local/.lastUpdated=1597987446796

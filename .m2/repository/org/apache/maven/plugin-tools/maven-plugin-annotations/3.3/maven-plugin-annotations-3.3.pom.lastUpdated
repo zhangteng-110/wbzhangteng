@@ -1,0 +1,8 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri Aug 21 14:05:07 CST 2020
+@default-spring-milestones-https\://repo.spring.io/libs-milestone-local/.lastUpdated=1597989906861
+https\://repo.spring.io/libs-snapshot-local/.error=Could not transfer artifact org.apache.maven.plugin-tools\:maven-plugin-annotations\:pom\:3.3 from/to spring-snapshots (https\://repo.spring.io/libs-snapshot-local)\: Connect to repo.spring.io\:443 [repo.spring.io/35.241.58.96] failed\: Connection timed out\: connect
+https\://repo.maven.apache.org/maven2/.lastUpdated=1597916061419
+https\://repo.spring.io/libs-milestone-local/.error=Could not transfer artifact org.apache.maven.plugin-tools\:maven-plugin-annotations\:pom\:3.3 from/to spring-milestones (https\://repo.spring.io/libs-milestone-local)\: Remote host terminated the handshake
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1597989907111
+@default-spring-snapshots-https\://repo.spring.io/libs-snapshot-local/.lastUpdated=1597989879830

@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Dec 08 15:56:41 CST 2020
+springfox-spi-2.9.2.pom>central=
+springfox-spi-2.9.2.pom>nexus-aliyun=
+springfox-spi-2.9.2.jar>nexus-aliyun=
+springfox-spi-2.9.2.jar>central=

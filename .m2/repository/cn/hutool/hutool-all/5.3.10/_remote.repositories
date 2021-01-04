@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Aug 24 15:54:41 CST 2020
+hutool-all-5.3.10-sources.jar>nexus-aliyun=
+hutool-all-5.3.10.pom>nexus-aliyun=
+hutool-all-5.3.10.jar>nexus-aliyun=

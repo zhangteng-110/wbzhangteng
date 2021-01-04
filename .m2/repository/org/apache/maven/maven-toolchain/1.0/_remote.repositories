@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri Aug 21 14:03:35 CST 2020
+maven-toolchain-1.0.pom>central=
+maven-toolchain-1.0.pom>nexus-aliyun=
+maven-toolchain-1.0.jar>nexus-aliyun=

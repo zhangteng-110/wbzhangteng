@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Nov 09 13:13:55 CST 2020
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1604898835350
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact io.projectreactor\:reactor-core\:jar\:sources\:3.3.11.RELEASE from/to central (https\://repo.maven.apache.org/maven2)\: Transfer failed for https\://repo.maven.apache.org/maven2/io/projectreactor/reactor-core/3.3.11.RELEASE/reactor-core-3.3.11.RELEASE-sources.jar

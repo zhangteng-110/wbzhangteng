@@ -1,0 +1,9 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri Aug 21 13:28:10 CST 2020
+https\://repo.spring.io/libs-snapshot-local/.error=Could not transfer artifact org.apache.maven.plugin-tools\:maven-plugin-tools-api\:pom\:2.4.3 from/to spring-snapshots (https\://repo.spring.io/libs-snapshot-local)\: Failed to transfer file\: https\://repo.spring.io/libs-snapshot-local/org/apache/maven/plugin-tools/maven-plugin-tools-api/2.4.3/maven-plugin-tools-api-2.4.3.pom. Return code is\: 409 , ReasonPhrase\:Conflict.
+https\://repo.spring.io/libs-milestone-local/.lastUpdated=1597987689448
+https\://repo.spring.io/libs-milestone-local/.error=
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1597905480719
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1597987689995
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.apache.maven.plugin-tools\:maven-plugin-tools-api\:pom\:2.4.3 from/to central (https\://repo.maven.apache.org/maven2)\: Software caused connection abort\: recv failed
+@default-spring-snapshots-https\://repo.spring.io/libs-snapshot-local/.lastUpdated=1597987689042

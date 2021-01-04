@@ -1,0 +1,7 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri Aug 21 13:24:44 CST 2020
+aopalliance-1.0.pom>central=
+aopalliance-1.0-sources.jar>central=
+aopalliance-1.0.pom>nexus-aliyun=
+aopalliance-1.0.jar>nexus-aliyun=
+aopalliance-1.0.jar>central=

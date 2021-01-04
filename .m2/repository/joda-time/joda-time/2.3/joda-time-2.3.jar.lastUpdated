@@ -1,0 +1,8 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Nov 09 11:43:53 CST 2020
+https\://repo.spring.io/libs-snapshot-local/.error=Could not transfer artifact joda-time\:joda-time\:jar\:2.3 from/to spring-snapshots (https\://repo.spring.io/libs-snapshot-local)\: Failed to transfer file\: https\://repo.spring.io/libs-snapshot-local/joda-time/joda-time/2.3/joda-time-2.3.jar. Return code is\: 409 , ReasonPhrase\:Conflict.
+https\://repo.maven.apache.org/maven2/.lastUpdated=1604893433964
+https\://repo.spring.io/libs-milestone-local/.lastUpdated=1597988254594
+https\://repo.spring.io/libs-milestone-local/.error=
+@default-spring-snapshots-https\://repo.spring.io/libs-snapshot-local/.lastUpdated=1597988201971
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1597988293981

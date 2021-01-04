@@ -1,0 +1,10 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri Aug 21 09:37:10 CST 2020
+https\://repo.spring.io/libs-release-local/.error=
+https\://repo.spring.io/libs-snapshot-local/.error=Could not transfer artifact com.oracle.database.jdbc\:ojdbc-bom\:pom\:19.7.0.0 from/to spring-snapshots (https\://repo.spring.io/libs-snapshot-local)\: Failed to transfer file\: https\://repo.spring.io/libs-snapshot-local/com/oracle/database/jdbc/ojdbc-bom/19.7.0.0/ojdbc-bom-19.7.0.0.pom. Return code is\: 409 , ReasonPhrase\:Conflict.
+https\://repo.spring.io/libs-release-local/.lastUpdated=1597973809619
+https\://repo.spring.io/libs-milestone-local/.lastUpdated=1597973804885
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1597973830682
+https\://repo.spring.io/libs-milestone-local/.error=
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact com.oracle.database.jdbc\:ojdbc-bom\:pom\:19.7.0.0 from/to central (https\://repo.maven.apache.org/maven2)\: Connect to repo.maven.apache.org\:443 [repo.maven.apache.org/151.101.196.215] failed\: Connection timed out\: connect
+@default-spring-snapshots-https\://repo.spring.io/libs-snapshot-local/.lastUpdated=1597973804541

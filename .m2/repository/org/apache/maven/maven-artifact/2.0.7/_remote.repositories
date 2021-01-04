@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri Aug 21 13:29:45 CST 2020
+maven-artifact-2.0.7.jar>central=
+maven-artifact-2.0.7.pom>central=
+maven-artifact-2.0.7.pom>nexus-aliyun=
+maven-artifact-2.0.7.jar>nexus-aliyun=

@@ -1,0 +1,8 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Dec 01 14:31:21 CST 2020
+https\://repo.spring.io/libs-snapshot-local/.error=Could not transfer artifact asm\:asm\:jar\:3.3.1 from/to spring-snapshots (https\://repo.spring.io/libs-snapshot-local)\: Failed to transfer file\: https\://repo.spring.io/libs-snapshot-local/asm/asm/3.3.1/asm-3.3.1.jar. Return code is\: 409 , ReasonPhrase\:Conflict.
+https\://repo.maven.apache.org/maven2/.lastUpdated=1606804281198
+https\://repo.spring.io/libs-milestone-local/.lastUpdated=1597987923198
+https\://repo.spring.io/libs-milestone-local/.error=
+@default-spring-snapshots-https\://repo.spring.io/libs-snapshot-local/.lastUpdated=1597987906026
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1597987938495

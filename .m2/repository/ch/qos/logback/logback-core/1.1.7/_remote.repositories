@@ -1,0 +1,7 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri Aug 21 13:24:44 CST 2020
+logback-core-1.1.7.pom>central=
+logback-core-1.1.7.pom>nexus-aliyun=
+logback-core-1.1.7.jar>nexus-aliyun=
+logback-core-1.1.7-sources.jar>central=
+logback-core-1.1.7.jar>central=

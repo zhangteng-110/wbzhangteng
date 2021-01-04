@@ -1,0 +1,10 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri Aug 21 13:24:44 CST 2020
+https\://repo.spring.io/libs-release-local/.error=
+https\://repo.spring.io/libs-snapshot-local/.error=Could not transfer artifact aopalliance\:aopalliance\:jar\:1.0 from/to spring-snapshots (https\://repo.spring.io/libs-snapshot-local)\: Failed to transfer file\: https\://repo.spring.io/libs-snapshot-local/aopalliance/aopalliance/1.0/aopalliance-1.0.jar. Return code is\: 409, ReasonPhrase\: Conflict.
+https\://repo.spring.io/libs-release-local/.lastUpdated=1597987482775
+https\://repo.maven.apache.org/maven2/.lastUpdated=1597903161527
+https\://repo.spring.io/libs-milestone-local/.lastUpdated=1597987480025
+https\://repo.spring.io/libs-milestone-local/.error=
+@default-spring-snapshots-https\://repo.spring.io/libs-snapshot-local/.lastUpdated=1597987476837
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1597987484618

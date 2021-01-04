@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri Aug 21 13:32:18 CST 2020
+commons-compress-1.9.pom>central=
+commons-compress-1.9.pom>nexus-aliyun=
+commons-compress-1.9.jar>nexus-aliyun=
